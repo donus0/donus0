@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">DE, DA from Moscow :)</h3>
+<h3 align="center">DE/DA from Moscow</h3>
 
-- 📫 How to reach me **artiom.trenin@bk.ru**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **artiom.trenin@bk.ru**</h3>
 <p align="left">
 </p>
 
