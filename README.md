@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">DE/DA from Moscow</h3>
 
-Connect with me: **artiom.trenin@bk.ru**
-
 <p align="left">
 </p>
 
