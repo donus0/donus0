@@ -69,7 +69,7 @@ I work end-to-end — from source systems and streaming ingestion to modeled lay
 <h3 align="left">Languages & core</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
@@ -77,46 +77,46 @@ I work end-to-end — from source systems and streaming ingestion to modeled lay
 <h3 align="left">Data platforms & orchestration</h3>
 <p align="left">
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/airflow.svg" alt="Apache Airflow" width="35" height="35"/>
+    <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/kafka.svg" alt="Apache Kafka" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
   </a>
   <a href="https://debezium.io/" target="_blank" rel="noreferrer">
-    <img src="./assets/debezium.svg" alt="Debezium" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/debeziumio/debeziumio-icon.svg" alt="Debezium" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/spark.svg" alt="Apache Spark" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40"/>
   </a>
   <a href="https://clickhouse.com" target="_blank" rel="noreferrer">
-    <img src="./assets/clickhouse.svg" alt="ClickHouse" width="35" height="35"/>
+    <img src="https://cdn.simpleicons.org/clickhouse/F9FF69" alt="ClickHouse" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
 </p>
 
 <h3 align="left">Infrastructure & tooling</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/git.svg" alt="Git" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/linux.svg" alt="Linux" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CDC-Oracle%20%E2%86%92%20Kafka%20%E2%86%92%20ClickHouse-0ea5e9?style=for-the-badge" alt="CDC"/>
-  <img src="https://img.shields.io/badge/ETL%2FELT-1e293b?style=for-the-badge" alt="ETL/ELT"/>
-  <img src="https://img.shields.io/badge/Data%20Modeling-334155?style=for-the-badge" alt="Data Modeling"/>
-  <img src="https://img.shields.io/badge/Data%20Quality-10b981?style=for-the-badge" alt="Data Quality"/>
+  <img src="https://img.shields.io/badge/CDC-Oracle%20%E2%86%92%20Kafka%20%E2%86%92%20ClickHouse-0ea5e9?style=for-the-badge&logo=apachekafka&logoColor=white" alt="CDC"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-1e293b?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL/ELT"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-334155?style=for-the-badge&logo=oracle&logoColor=white" alt="Data Modeling"/>
+  <img src="https://img.shields.io/badge/Data%20Quality-10b981?style=for-the-badge&logo=clickhouse&logoColor=white" alt="Data Quality"/>
 </p>
 
 ---
@@ -125,12 +125,12 @@ I work end-to-end — from source systems and streaming ingestion to modeled lay
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=donus0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&rank_icon=percentile" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donus0&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=donus0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=donus0&theme=tokyonight&hide_border=true&background=0f172a&ring=0ea5e9&fire=38bdf8&currStreakLabel=e2e8f0" alt="GitHub streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donus0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top languages" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=donus0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top languages" width="48%"/>
 
 </div>
 
